@@ -1,0 +1,503 @@
+{
+    "searchCriteria": {
+      "departureCity": "New York",
+      "arrivalCity": "Paris",
+      "departureDate": "2025-06-10",
+      "arrivalDate": "2025-06-20",
+      "travelers": {
+        "adults": 2,
+        "children": 1,
+        "infants": 0
+      },
+      "preferences": {
+        "activities": ["City sightseeing", "Historical sites", "Shopping"],
+        "budgetType": "Mid-range"
+      }
+    },
+    "providers": [
+      {
+        "providerName": "MakeMyTrip",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu8BYG6qjNKESuVmQrwEJ5ZsPKIhA9Nv3lwQ&s",
+        "rating": 4.2,
+        "reviewCount": 2356,
+        "packageDetails": {
+          "packageId": "MMT-PAR-2025-06-10",
+          "packageName": "Parisian Escape",
+          "totalPrice": 3785.50,
+          "priceBreakdown": {
+            "baseFare": 2800.00,
+            "taxes": 450.50,
+            "serviceCharges": 235.00,
+            "insurance": 300.00
+          },
+          "currency": "USD",
+          "perPersonPrice": 1261.83,
+          "discountApplied": 200.00,
+          "availability": "Available",
+          "refundable": true,
+          "refundPolicy": "100% refund if cancelled 72 hours before departure",
+          "bookingLink": "https://makemytrip.com/book/MMT-PAR-2025-06-10"
+        },
+        "flightDetails": {
+          "outbound": {
+            "flightNumber": "AF23",
+            "airline": "Air France",
+            "departureTime": "2025-06-10T10:30:00",
+            "arrivalTime": "2025-06-10T22:15:00",
+            "duration": "7h 45m",
+            "stops": 0,
+            "departureAirport": {
+              "code": "JFK",
+              "name": "John F. Kennedy International Airport"
+            },
+            "arrivalAirport": {
+              "code": "CDG",
+              "name": "Charles de Gaulle Airport"
+            },
+            "cabinClass": "Economy",
+            "amenities": ["Meals", "WiFi", "Entertainment"]
+          },
+          "inbound": {
+            "flightNumber": "AF24",
+            "airline": "Air France",
+            "departureTime": "2025-06-20T14:45:00",
+            "arrivalTime": "2025-06-20T17:30:00",
+            "duration": "8h 45m",
+            "stops": 0,
+            "departureAirport": {
+              "code": "CDG",
+              "name": "Charles de Gaulle Airport"
+            },
+            "arrivalAirport": {
+              "code": "JFK",
+              "name": "John F. Kennedy International Airport"
+            },
+            "cabinClass": "Economy",
+            "amenities": ["Meals", "WiFi", "Entertainment"]
+          }
+        },
+        "accommodationDetails": {
+          "hotelName": "Hotel Mercure Paris Centre Eiffel Tower",
+          "address": "20 Rue Jean Rey, 75015 Paris, France",
+          "rating": 4,
+          "checkIn": "2025-06-10",
+          "checkOut": "2025-06-20",
+          "roomType": "Family Room",
+          "amenities": ["Free WiFi", "Air conditioning", "Restaurant", "Bar"],
+          "mealPlan": "Breakfast included",
+          "cancellationPolicy": "Free cancellation up to 3 days before check-in"
+        },
+        "activities": [
+          {
+            "name": "Skip-the-Line Eiffel Tower Tour",
+            "description": "Priority access to Eiffel Tower with guided tour",
+            "duration": "2 hours",
+            "included": true
+          },
+          {
+            "name": "Seine River Cruise",
+            "description": "1-hour scenic cruise on Seine River",
+            "duration": "1 hour",
+            "included": true
+          },
+          {
+            "name": "Louvre Museum Guided Tour",
+            "description": "Skip-the-line guided tour of Louvre Museum",
+            "duration": "3 hours",
+            "included": true
+          }
+        ],
+        "transferDetails": {
+          "airport": {
+            "included": true,
+            "type": "Private",
+            "vehicleType": "Sedan"
+          },
+          "cityTransportation": {
+            "included": true,
+            "type": "Metro Pass",
+            "validity": "10 days"
+          }
+        },
+        "additionalOffers": {
+          "travelInsurance": {
+            "included": true,
+            "coverageAmount": 50000,
+            "provider": "AXA"
+          },
+          "additionalServices": [
+            {
+              "name": "Local SIM Card",
+              "price": 20.00,
+              "included": false
+            },
+            {
+              "name": "Paris Pass",
+              "price": 120.00,
+              "included": false
+            }
+          ]
+        }
+      },
+      {
+        "providerName": "EasyMyTrip",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwh215nF9vfw7gOgzEydrBaqDCRLdXPPFW-w&s",
+        "rating": 4.0,
+        "reviewCount": 1875,
+        "packageDetails": {
+          "packageId": "EMT-PAR-2025-06-10",
+          "packageName": "Paris Family Adventure",
+          "totalPrice": 3450.75,
+          "priceBreakdown": {
+            "baseFare": 2650.00,
+            "taxes": 400.75,
+            "serviceCharges": 200.00,
+            "insurance": 200.00
+          },
+          "currency": "USD",
+          "perPersonPrice": 1150.25,
+          "discountApplied": 150.00,
+          "availability": "Limited seats",
+          "refundable": true,
+          "refundPolicy": "75% refund if cancelled 72 hours before departure",
+          "bookingLink": "https://easymytrip.com/book/EMT-PAR-2025-06-10"
+        },
+        "flightDetails": {
+          "outbound": {
+            "flightNumber": "UA57",
+            "airline": "United Airlines",
+            "departureTime": "2025-06-10T12:45:00",
+            "arrivalTime": "2025-06-11T02:30:00",
+            "duration": "7h 45m",
+            "stops": 0,
+            "departureAirport": {
+              "code": "JFK",
+              "name": "John F. Kennedy International Airport"
+            },
+            "arrivalAirport": {
+              "code": "CDG",
+              "name": "Charles de Gaulle Airport"
+            },
+            "cabinClass": "Economy",
+            "amenities": ["Meals", "Entertainment"]
+          },
+          "inbound": {
+            "flightNumber": "UA58",
+            "airline": "United Airlines",
+            "departureTime": "2025-06-20T13:30:00",
+            "arrivalTime": "2025-06-20T16:15:00",
+            "duration": "8h 45m",
+            "stops": 0,
+            "departureAirport": {
+              "code": "CDG",
+              "name": "Charles de Gaulle Airport"
+            },
+            "arrivalAirport": {
+              "code": "JFK",
+              "name": "John F. Kennedy International Airport"
+            },
+            "cabinClass": "Economy",
+            "amenities": ["Meals", "Entertainment"]
+          }
+        },
+        "accommodationDetails": {
+          "hotelName": "Citadines Tour Eiffel Paris",
+          "address": "132 Boulevard de Grenelle, 75015 Paris, France",
+          "rating": 3.5,
+          "checkIn": "2025-06-10",
+          "checkOut": "2025-06-20",
+          "roomType": "One-Bedroom Apartment",
+          "amenities": ["Free WiFi", "Kitchenette", "Air conditioning"],
+          "mealPlan": "Room only",
+          "cancellationPolicy": "Free cancellation up to 2 days before check-in"
+        },
+        "activities": [
+          {
+            "name": "Eiffel Tower Ticket",
+            "description": "Standard entrance ticket to Eiffel Tower",
+            "duration": "2 hours",
+            "included": true
+          },
+          {
+            "name": "Disneyland Paris (1 Day)",
+            "description": "1-day pass to Disneyland Paris",
+            "duration": "Full day",
+            "included": true
+          }
+        ],
+        "transferDetails": {
+          "airport": {
+            "included": true,
+            "type": "Shared",
+            "vehicleType": "Shuttle Bus"
+          },
+          "cityTransportation": {
+            "included": false,
+            "type": "Optional",
+            "additionalCost": 80.00
+          }
+        },
+        "additionalOffers": {
+          "travelInsurance": {
+            "included": true,
+            "coverageAmount": 25000,
+            "provider": "ICICI Lombard"
+          },
+          "additionalServices": [
+            {
+              "name": "Skip-the-line Louvre Ticket",
+              "price": 35.00,
+              "included": false
+            },
+            {
+              "name": "Paris Museum Pass",
+              "price": 70.00,
+              "included": false
+            }
+          ]
+        }
+      },
+      {
+        "providerName": "OneTravel",
+        "logo": "https://www.logopeople.in/wp-content/uploads/2023/08/OneTravel-.jpg",
+        "rating": 3.8,
+        "reviewCount": 1245,
+        "packageDetails": {
+          "packageId": "OT-PAR-2025-06-10",
+          "packageName": "Paris Explorer",
+          "totalPrice": 3975.25,
+          "priceBreakdown": {
+            "baseFare": 3000.00,
+            "taxes": 475.25,
+            "serviceCharges": 300.00,
+            "insurance": 200.00
+          },
+          "currency": "USD",
+          "perPersonPrice": 1325.08,
+          "discountApplied": 100.00,
+          "availability": "Available",
+          "refundable": true,
+          "refundPolicy": "50% refund if cancelled 72 hours before departure",
+          "bookingLink": "https://onetravel.com/book/OT-PAR-2025-06-10"
+        },
+        "flightDetails": {
+          "outbound": {
+            "flightNumber": "DL122",
+            "airline": "Delta Airlines",
+            "departureTime": "2025-06-10T18:30:00",
+            "arrivalTime": "2025-06-11T08:15:00",
+            "duration": "7h 45m",
+            "stops": 0,
+            "departureAirport": {
+              "code": "LGA",
+              "name": "LaGuardia Airport"
+            },
+            "arrivalAirport": {
+              "code": "CDG",
+              "name": "Charles de Gaulle Airport"
+            },
+            "cabinClass": "Economy Plus",
+            "amenities": ["Premium Meals", "WiFi", "Extra Legroom", "Entertainment"]
+          },
+          "inbound": {
+            "flightNumber": "DL123",
+            "airline": "Delta Airlines",
+            "departureTime": "2025-06-20T11:15:00",
+            "arrivalTime": "2025-06-20T14:00:00",
+            "duration": "8h 45m",
+            "stops": 0,
+            "departureAirport": {
+              "code": "CDG",
+              "name": "Charles de Gaulle Airport"
+            },
+            "arrivalAirport": {
+              "code": "LGA",
+              "name": "LaGuardia Airport"
+            },
+            "cabinClass": "Economy Plus",
+            "amenities": ["Premium Meals", "WiFi", "Extra Legroom", "Entertainment"]
+          }
+        },
+        "accommodationDetails": {
+          "hotelName": "Hotel Paris Bastille Boutet",
+          "address": "22-24 Rue Faidherbe, 75011 Paris, France",
+          "rating": 4.5,
+          "checkIn": "2025-06-10",
+          "checkOut": "2025-06-20",
+          "roomType": "Deluxe Family Room",
+          "amenities": ["Free WiFi", "Spa access", "Swimming pool", "Fitness center"],
+          "mealPlan": "Breakfast included",
+          "cancellationPolicy": "Free cancellation up to 7 days before check-in"
+        },
+        "activities": [
+          {
+            "name": "Paris City Tour",
+            "description": "Full-day guided tour of major Paris attractions",
+            "duration": "8 hours",
+            "included": true
+          },
+          {
+            "name": "Versailles Palace Entry",
+            "description": "Skip-the-line entry to Palace of Versailles",
+            "duration": "Half day",
+            "included": true
+          }
+        ],
+        "transferDetails": {
+          "airport": {
+            "included": true,
+            "type": "Private",
+            "vehicleType": "Executive Sedan"
+          },
+          "cityTransportation": {
+            "included": true,
+            "type": "Metro Pass",
+            "validity": "10 days"
+          }
+        },
+        "additionalOffers": {
+          "travelInsurance": {
+            "included": true,
+            "coverageAmount": 75000,
+            "provider": "Allianz"
+          },
+          "additionalServices": [
+            {
+              "name": "French Dinner Cruise",
+              "price": 150.00,
+              "included": false
+            },
+            {
+              "name": "Private Photographer (2 hours)",
+              "price": 200.00,
+              "included": false
+            }
+          ]
+        }
+      },
+      {
+        "providerName": "Booking.com",
+        "logo": "https://download.logo.wine/logo/Booking.com/Booking.com-Logo.wine.png",
+        "rating": 4.5,
+        "reviewCount": 4250,
+        "packageDetails": {
+          "packageId": "BOOK-PAR-2025-06-10",
+          "packageName": "Paris Premium Bundle",
+          "totalPrice": 3880.25,
+          "priceBreakdown": {
+            "baseFare": 2950.00,
+            "taxes": 480.25,
+            "serviceCharges": 250.00,
+            "insurance": 200.00
+          },
+          "currency": "USD",
+          "perPersonPrice": 1293.42,
+          "discountApplied": 220.00,
+          "availability": "Available",
+          "refundable": true,
+          "refundPolicy": "90% refund if cancelled 5 days before departure",
+          "bookingLink": "https://booking.com/book/BOOK-PAR-2025-06-10"
+        },
+        "flightDetails": {
+          "outbound": {
+            "flightNumber": "BA178",
+            "airline": "British Airways",
+            "departureTime": "2025-06-10T21:30:00",
+            "arrivalTime": "2025-06-11T11:15:00",
+            "duration": "7h 45m",
+            "stops": 0,
+            "departureAirport": {
+              "code": "JFK",
+              "name": "John F. Kennedy International Airport"
+            },
+            "arrivalAirport": {
+              "code": "CDG",
+              "name": "Charles de Gaulle Airport"
+            },
+            "cabinClass": "Economy",
+            "amenities": ["Meals", "WiFi", "Entertainment"]
+          },
+          "inbound": {
+            "flightNumber": "BA179",
+            "airline": "British Airways",
+            "departureTime": "2025-06-20T13:00:00",
+            "arrivalTime": "2025-06-20T15:45:00",
+            "duration": "8h 45m",
+            "stops": 0,
+            "departureAirport": {
+              "code": "CDG",
+              "name": "Charles de Gaulle Airport"
+            },
+            "arrivalAirport": {
+              "code": "JFK",
+              "name": "John F. Kennedy International Airport"
+            },
+            "cabinClass": "Economy",
+            "amenities": ["Meals", "WiFi", "Entertainment"]
+          }
+        },
+        "accommodationDetails": {
+          "hotelName": "Hôtel Le Petit Paris",
+          "address": "214 Rue Saint-Jacques, 75005 Paris, France",
+          "rating": 4,
+          "checkIn": "2025-06-10",
+          "checkOut": "2025-06-20",
+          "roomType": "Family Room",
+          "amenities": ["Free WiFi", "Air conditioning", "24-hour front desk", "Bar"],
+          "mealPlan": "Breakfast included",
+          "cancellationPolicy": "Free cancellation up to 5 days before check-in"
+        },
+        "activities": [
+          {
+            "name": "Skip-the-Line Eiffel Tower",
+            "description": "Priority access to Eiffel Tower with guide",
+            "duration": "2 hours",
+            "included": true
+          },
+          {
+            "name": "Louvre Museum Tour",
+            "description": "Guided tour of the Louvre Museum",
+            "duration": "3 hours",
+            "included": true
+          },
+          {
+            "name": "Notre-Dame and Latin Quarter",
+            "description": "Walking tour of Notre-Dame Cathedral area",
+            "duration": "2 hours",
+            "included": true
+          }
+        ],
+        "transferDetails": {
+          "airport": {
+            "included": true,
+            "type": "Private",
+            "vehicleType": "Minivan"
+          },
+          "cityTransportation": {
+            "included": true,
+            "type": "Metro Pass",
+            "validity": "10 days"
+          }
+        },
+        "additionalOffers": {
+          "travelInsurance": {
+            "included": true,
+            "coverageAmount": 60000,
+            "provider": "Europ Assistance"
+          },
+          "additionalServices": [
+            {
+              "name": "Private Airport Escort",
+              "price": 100.00,
+              "included": false
+            },
+            {
+              "name": "Photography Tour",
+              "price": 80.00,
+              "included": false
+            }
+          ]
+        }
+      }
+    ]
+  }
